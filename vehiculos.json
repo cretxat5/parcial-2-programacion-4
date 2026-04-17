@@ -1,0 +1,11 @@
+[
+    {
+        "tipo": "Automovil",
+        "placa": "xwc123",
+        "marca": "toyota",
+        "modelo": "land",
+        "precio_dia": 13000.0,
+        "disponible": true,
+        "num_puertas": 4
+    }
+]
